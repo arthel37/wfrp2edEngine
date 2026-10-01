@@ -1,0 +1,55 @@
+{
+  "Aspiring Champion": ["Champion of Chaos"],
+  "Cataclysts": [],
+  "Champion of Chaos": ["Exalted Champion of Chaos"],
+  "Chaos Engineer": ["Artisan", "Guild Master", "Marauder", "Smuggler"],
+  "Chaos Knight": ["Aspiring Champion"],
+  "Chaos Warrior": ["Chaos Knight"],
+  "Cult Acolyte of Khorne": [
+    "Agitator",
+    "Chaos Marauder",
+    "Cult Magus of Khorne",
+    "Outlaw",
+    "Veteran",
+    "Zealot"
+  ],
+  "Cult Acolyte of Nurgle": [
+    "Agitator",
+    "Barber-Surgeon",
+    "Chaos Marauder",
+    "Charlatan",
+    "Cult Magus of Nurgle",
+    "Grave Robber",
+    "Outlaw"
+  ],
+  "Cult Acolyte of Slaanesh": [
+    "Agitator",
+    "Chaos Warrior",
+    "Cult Magus of Slaanesh",
+    "Entertainer",
+    "Noble",
+    "Rogue"
+  ],
+  "Cult Acolyte of Tzeentch": [
+    "Agitator",
+    "Burgher",
+    "Chaos Warrior",
+    "Cult Magus of Tzeentch",
+    "Noble",
+    "Rogue",
+    "Scribe",
+    "Smuggler",
+    "Student",
+    "Thrall Wizard",
+    "Tradesman"
+  ],
+  "Cult Magus of Khorne": ["Chaos Warrior"],
+  "Cult Magus of Nurgle": ["Chaos Warrior", "Maledictor"],
+  "Cult Magus of Slaanesh": ["Chaos Warrior", "Maledictor"],
+  "Cult Magus of Tzeentch": ["Chaos Warrior", "Maledictor"],
+  "Master Sorcerer": ["Sorcerer Lord"],
+  "Sorcerer": ["Sorcerer Champion"],
+  "Sorcerer Champion": ["Master Sorcerer"],
+  "Sorcerer Lord": [],
+  "Vitki": []
+}

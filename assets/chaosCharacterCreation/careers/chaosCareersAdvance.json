@@ -1,0 +1,21 @@
+{
+  "Aspiring Champion": [25, 10, 20, 20, 20, 10, 20, 10, 2, 8, 0],
+  "Cataclysts": [15, 15, 5, 15, 20, 35, 40, 20, 0, 5, 4],
+  "Champion of Chaos": [30, 15, 25, 30, 25, 15, 30, 15, 2, 9, 0],
+  "Chaos Engineer": [10, 10, 0, 5, 10, 10, 0, 0, 0, 3, 0],
+  "Chaos Knight": [20, 5, 15, 15, 20, 5, 15, 5, 1, 6, 0],
+  "Chaos Warrior": [10, 0, 10, 10, 10, 0, 10, 0, 1, 4, 0],
+  "Cult Acolyte of Khorne": [20, 0, 10, 15, 5, 0, 15, 0, 1, 4, 0],
+  "Cult Acolyte of Nurgle": [10, 0, 0, 20, 5, 0, 15, 15, 0, 3, 1],
+  "Cult Acolyte of Slaanesh": [5, 5, 0, 0, 10, 20, 0, 25, 0, 3, 1],
+  "Cult Acolyte of Tzeentch": [5, 5, 0, 0, 5, 20, 10, 20, 0, 3, 1],
+  "Cult Magus of Khorne": [40, 5, 20, 30, 10, 0, 15, 5, 2, 7, 0],
+  "Cult Magus of Nurgle": [15, 5, 5, 30, 10, 5, 20, 15, 1, 5, 2],
+  "Cult Magus of Slaanesh": [10, 10, 5, 5, 20, 30, 0, 40, 1, 5, 2],
+  "Cult Magus of Tzeentch": [10, 10, 5, 5, 10, 40, 20, 30, 1, 5, 2],
+  "Master Sorcerer": [10, 10, 5, 15, 0, 25, 30, 15, 1, 4, 3],
+  "Sorcerer": [5, 0, 0, 5, 0, 5, 15, 5, 0, 2, 1],
+  "Sorcerer Champion": [10, 5, 0, 10, 0, 15, 20, 10, 0, 3, 2],
+  "Sorcerer Lord": [15, 10, 10, 20, 0, 35, 40, 20, 1, 5, 4],
+  "Vitki": [15, 10, 10, 10, 10, 15, 25, 20, 1, 5, 2]
+}

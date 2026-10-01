@@ -1,0 +1,28 @@
+{
+  "chaos dwarf": [
+    "Bodyguard",
+    "Burgher",
+    "Chaos Engineer",
+    "Jailer",
+    "Marauder",
+    "Mercenary",
+    "Miner",
+    "Pit Fighter",
+    "Shieldbraker",
+    "Slaver",
+    "Soldier",
+    "Sorcerer",
+    "Tradesman"
+  ],
+  "kurgan": [
+    "Hunter",
+    "Chaos Marauder",
+    "Mercenary",
+    "Norse Berserker",
+    "Outlaw",
+    "Outrider",
+    "Pit Fighter",
+    "Thug",
+    "Witch"
+  ]
+}
