@@ -1,38 +1,44 @@
 ```mermaid
 classDiagram
 class Character {
-+String name
-+Stats stats
-+Skills skills
-+Talents talents
-+Weapons weapons
-+Armour armour
-+Trappings trappings
-+rollSkill(skill: Skill) int
++unordered_map~CharName, short~ characteristics
++vector~Skill~ skills
++vector~Talent~ talents
++vector~Item~ trappings
++Appearance appearance
++Background background
 }
-class Stats {
-+int WS
-+int BS
-+int S
-+int T
-+int Ag
-+int Int
-+int WP
-+int Fel
-+int A
-+int W
-+int SB
-+int TB
-+int M
-+int Mag
-+int IP
-+int FP
+class Background {
++string starSign
++string birthPlace
 }
-class Skills {
-+
+class Appearance {
++ string name;
++ short height;
++ short weight;
++ short age;
++ string hairColour;
++ string eyeColour;
++ vector distinguishingMarks;
 }
-class Trappings {
+class Skill {
++SkillName id
++string specialization
++unsigned short advancement
+}
+class Talent {
++TalentName id
++string specialization
+}
+class Item {
++string name
++int amount
++int encumberance
+}
 
-}
-Character --> Stats
+Character *-- Background
+Character *-- Appearance
+Character *-- Skill
+Character *-- Talent
+Character *-- Item
 ```
