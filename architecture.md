@@ -36,6 +36,14 @@ class Item {
 +int encumberance
 }
 
+class Test {
+
+}
+
+class Encounter {
+
+}
+
 Character *-- Background
 Character *-- Appearance
 Character *-- Skill

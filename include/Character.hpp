@@ -223,4 +223,6 @@ struct Character {
   std::vector<Item> trappings;
   Appearance appearence;
   Background background;
+  unsigned short xpCurr;
+  unsigned short xpTotal;
 };
